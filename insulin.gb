@@ -1,0 +1,13 @@
+LOCUS       AAA59172.1               110 aa                     UNK 01-JAN-1980
+DEFINITION  AAA59172.1 insulin [Homo sapiens].
+ACCESSION   AAA59172
+VERSION     AAA59172.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 malwmrllpl lallalwgpd paaafvnqhl cgshlvealy lvcgergffy tpktrreaed
+       61 lqvgqvelgg gpgagslqpl alegslqkrg iveqcctsic slyqlenycn
+//
