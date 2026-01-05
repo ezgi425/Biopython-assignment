@@ -1,3 +1,6 @@
+Contribution:
+-Eda Senem: Executed the script on JupyterHub and pushed results
+
 # Biopython-assignment
 group4 
 
